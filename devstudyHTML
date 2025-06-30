@@ -1,0 +1,43 @@
+<!-- HTML THINGS
+  ESTRUTURA BÁSICA:
+    <!DOCTYPE html> - diz ao navegador que é um documento HTML
+    <html> - raiz do documento, tudo do site vai dentro desta tag
+    <head> - parte "invisível" da página (titulo, links de estilo
+      <title> - nome que aparece na aba do navegador
+      <meta> - dentro do head, informa coisas sobre a página
+    <body> - parte visível do site (conteúdo)
+      <div> - caixa para organizar conteúdo
+  
+        
+  ESTRUTURA DE TEXTO:
+    <h1> - título principal (tem ate o h6 
+    <p> - parágrafo de texto
+    <b> - define texto em negrito
+    <i> - define texto em italico
+    <strong> - texto em negrito com enfase
+    <em> - texto em itálico com enfase
+    <br> - quebra de linha (sem fechar)
+    <hr> - linha horizontal de separação
+    <span> - marca um pedaço do texto pra estilizar
+
+
+  LISTAS:
+    <ul> - lista não ordenada (com bolinhas)
+    <ol> - lista ordenada (com números)
+    <li> - item da lista, dentro da <ul> ou <ol>
+
+
+  LINKS E IMAGENS:
+    <a> - link para outro site ou página
+    <img> - mostra uma imagem
+    <video> - coloca um vídeo
+    <audio> - coloca audio
+
+
+  ESTILO E SCRIPTS
+    <style> - define um bloco de estilos CSS
+    <link> - define um link para recursos externos, como uma folha de estilo
+    <script> - define um bloco de código javascript
+--> 
+  
+ 
