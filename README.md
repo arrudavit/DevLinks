@@ -1,3 +1,4 @@
+
 <H1>Projeto DevLinks</H1>
 <p>Fala, Mundo! Esse foi meu primeiro projeto desenvolvido com muito aprendizado, tentativa e erro — e principalmente, com muita vontade de crescer na área. Ainda tem muito o que melhorar, mas estou orgulhosa demais pelo primeiro passo dado e do caminho até aqui!
 </p>
@@ -46,6 +47,3 @@ Esse projeto está sob licença MIT.
 ✨ Créditos
  
 Projeto desenvolvido pelo curso Discover da Rocketseat 💜
-
-
-
