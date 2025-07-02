@@ -23,15 +23,17 @@ Você pode visualizar todo layout utilizado no projeto através [desse link](htt
 
 Esse projeto está sob licença MIT.
 
-![img](https://github.com/user-attachments/assets/8c6a409e-e35d-412c-8c30-e65732686c7d)
-![img](https://github.com/user-attachments/assets/28a6fbb1-0cd9-4605-b7c4-92994d96d141)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c6a409e-e35d-412c-8c30-e65732686c7d" width="800">
+  <img src="https://github.com/user-attachments/assets/28a6fbb1-0cd9-4605-b7c4-92994d96d141" width="800">
+</p>
 
-![img](https://github.com/user-attachments/assets/9652eecc-7586-4acb-b643-2c7e95a3f013) ![img](https://github.com/user-attachments/assets/ad759f9e-1e08-47c0-b04f-64016b536fef)
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9652eecc-7586-4acb-b643-2c7e95a3f013" width="350">
+  <img src="https://github.com/user-attachments/assets/ad759f9e-1e08-47c0-b04f-64016b536fef" width="350">
+</p>
  
      Projeto desenvolvido pelo curso Discover da Rocketseat 💜
-</p>
+
 
 
