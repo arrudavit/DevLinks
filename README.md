@@ -2,9 +2,6 @@
 <p>Fala, Mundo! Esse foi meu primeiro projeto desenvolvido com muito aprendizado, tentativa e erro — e principalmente, com muita vontade de crescer na área. Ainda tem muito o que melhorar, mas estou orgulhosa demais pelo primeiro passo dado e do caminho até aqui!
 </p>
 
-![img](https://github.com/user-attachments/assets/8c6a409e-e35d-412c-8c30-e65732686c7d)
-![img](https://github.com/user-attachments/assets/28a6fbb1-0cd9-4605-b7c4-92994d96d141)
-
 <p>🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -26,8 +23,11 @@ Você pode visualizar todo layout utilizado no projeto através [desse link](htt
 
 Esse projeto está sob licença MIT.
 
+![img](https://github.com/user-attachments/assets/8c6a409e-e35d-412c-8c30-e65732686c7d)
+![img](https://github.com/user-attachments/assets/28a6fbb1-0cd9-4605-b7c4-92994d96d141)
 
-                                  Projeto desenvolvido pelo curso Discover da Rocketseat 💜
+
+                             Projeto desenvolvido pelo curso Discover da Rocketseat 💜
 </p>
 
 
