@@ -26,8 +26,8 @@ Esse projeto está sob licença MIT.
 ![img](https://github.com/user-attachments/assets/8c6a409e-e35d-412c-8c30-e65732686c7d)
 ![img](https://github.com/user-attachments/assets/28a6fbb1-0cd9-4605-b7c4-92994d96d141)
 
-
-                             Projeto desenvolvido pelo curso Discover da Rocketseat 💜
+ 
+     Projeto desenvolvido pelo curso Discover da Rocketseat 💜
 </p>
 
 
